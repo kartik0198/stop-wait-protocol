@@ -1,4 +1,4 @@
-# DCOMProject-StopAndWaitProtocol
+# Stop And Wait Protocol
 
 In this mini project, I have implemented the Stop and Wait protocol.
 
